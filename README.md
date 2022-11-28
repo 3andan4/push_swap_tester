@@ -6,6 +6,8 @@
 
 The generator can be used as a standalone program to generate random numbers, or as a library to generate random numbers in your own program.
 
+To use it, you must either copy your push_swap executable in the same directory as the tester or move the tester and Generator in the same directory as your push_swap executable.
+
 ## Tester
 
 The tester is a program that will test your pushswap program with a given number of random numbers.
