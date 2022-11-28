@@ -43,3 +43,4 @@ Mean will generate a number of X numbers to test your pushswap program with it. 
 ./Generator [number of numbers] [min] [max]
 ```
 The generator will generate a number of random numbers between min and max. The number of numbers is optional, if not specified, it will generate 500 numbers. The min is optional, if not specified, it will be set to -100000. The max is optional, if not specified, it will be set to 100000.
+
